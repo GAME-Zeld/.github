@@ -1,28 +1,26 @@
-# 🎮 Game Organization Platform
+# 🎮 Game Platform
 
-A full-stack web application that allows users to explore, manage, and interact with a collection of games. Built with a scalable architecture, authentication system, and modern UI for a smooth user experience.
+A web-based game application where users can play, interact, and enjoy an engaging gaming experience directly in the browser. Built with modern web technologies and designed for performance and scalability.
 
 ---
 
 ## 🚀 Features
 
-### 👤 User Features
-- User registration & login (JWT authentication)
-- Browse and explore games
-- View detailed game information
-- Add/remove games (if applicable)
-- Responsive design for all devices
+### 🎯 Gameplay Features
+- Interactive browser-based game
+- Smooth user controls and real-time interaction
+- Game logic with score tracking
+- Responsive design for desktop and mobile
 
-### 🛠️ Admin Features
-- Manage game listings (CRUD operations)
-- Manage users
-- Monitor platform activity
+### 👤 User Features
+- User authentication (JWT)
+- Save progress / scores (if implemented)
+- Seamless gameplay experience
 
 ### ⚙️ System Features
-- RESTful API architecture
-- Secure authentication & authorization
-- Scalable backend structure
-- Deployed frontend & backend
+- Fast and optimized frontend rendering
+- RESTful backend API
+- Scalable architecture for future enhancements
 
 ---
 
@@ -31,7 +29,6 @@ A full-stack web application that allows users to explore, manage, and interact 
 ### Frontend
 - React
 - Tailwind CSS
-- Context API / State Management
 - Vite
 
 ### Backend
@@ -44,6 +41,3 @@ A full-stack web application that allows users to explore, manage, and interact 
 - Frontend: Vercel
 - Backend: Railway
 
----
-
-## 📁 Project Structure
